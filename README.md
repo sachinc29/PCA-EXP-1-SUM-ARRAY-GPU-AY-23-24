@@ -6,7 +6,7 @@
 
 <h3>EX.NO : 1</h3>
 
-<h3>DATE : 08.9.2024</h3>
+<h3>DATE : </h3>
 
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE :</h3>
     
